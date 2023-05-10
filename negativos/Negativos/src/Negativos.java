@@ -12,7 +12,6 @@ public class Negativos {
         int[] vetor = new int[entrada];
 
         for (int i = 0; i < entrada; i++){
-            //sc.nextLine();
             System.out.println("digite um numero:");
             vetor[i] = sc.nextInt();
             
